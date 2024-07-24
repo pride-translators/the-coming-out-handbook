@@ -1,53 +1,53 @@
-# The Coming Out Handbook
-Explore what coming out means to you with tools and guiding questions.
+# 커밍아웃 핸드북
+유용한 정보와 질문들을 통해 커밍아웃이 어떤 의미로 다가올수 있는지 알아보세요.
 
 > 원문을 읽고 싶으신가요? [여기](https://www.thetrevorproject.org/resources/guide/the-coming-out-handbook/)를 확인해보세요.
 
 \
-**Welcome!**
+**환영합니다!**
 
-Exploring your **sexual orientation** and/or **gender identity** can bring up a lot of feelings and questions.
+**성적 지향** 및/혹은 **젠더 정체성** 에 대해 생각해보게 되면 여러 감정이 들기도 하고 여러 질문들이 있을 수도 있습니다.
 
-Inside this handbook, we will work together to explore your identity, what it might be like to share your identity with others, and provide you with tools and guiding questions to help you think about what **coming out** means to you.
+이 핸드북에서는 정체성을 탐구해보는 시간을 가져볼 예정입니다. 정체성을 다른 사람들에게 알려주는 것이 어떤 것인지 알아보고, **커밍아웃**이 어떤 의미인지 생각해볼 수 있도록 유용한 정보와 질문들을 살펴보겠습니다.
 
-You may have heard people talking about “coming out” before in ways that are oversimplified, judgmental, or just plain scary. **The truth is that there is no one way to come out or be out**. There may be certain people in our lives with whom we want to share our **sexual orientation** and/ or **gender identity**, and there may be others with whom we know that we do not feel comfortable or safe sharing. **This is more than okay!**
+아주 단순화되게 다른 사람들에게 판단받을수도 있고 무서운 일이라며 사람들이 "커밍아웃"에 대해 이야기하는 내용을 들어본 적이 있을 것입니다. **하지만 사실 커밍아웃을 하는 데에는 한 가지 정해진 방법만이 있는 게 아닙니다.** 우리가 살아가면서 우리의 **성적 지향** 및/또는 **젠더 정체성**에 대해 알려주고 싶은 사람들이 있을수 있지만, 알려주는 것이 편안하거나 안전하다고 느껴지지 않는 사람들도 있을 수 있습니다. 그래도 괜찮습니다!
 
-> I’ve slowly been figuring out who I really am, and every step of the way I like who I find more and more.
+> 제 진정한 정체성을 조금씩 알아내가고 있는데, 그러면서 매번 알아가게 되는 제 자신이 더 좋아지게 되는 것 같습니다.
 > 
-> HAYLEY, 16, VIRGINIA
+> 헤일리, 16살, 버지니아 주
 
-For a lot of people, **coming out doesn’t just happen once.** A lot of folks find themselves coming out at different times to different people: with a few friends online, with trusted family members, or just one person in their life.
+많은 사람들이 **커밍아웃을 한번에 전부 하지는 않습니다.** 보통은 많은 사람들이 여러 번에 걸쳐서 여러 사람들에게 커밍아웃을 하게 됩니다. 예로는 인터넷에서 이야기하는 친구들, 신뢰할 수 있는 가족 구성원들, 혹은 삶에서 알고 지내게 되는 사람 한 명이 될 수도 있습니다.
 
-After thinking it through, you may decide to be out to yourself, but not to anyone else — and **that’s okay.** Many people choose not to come out to others for different reasons. **You are valid and deserve support no matter what.**
+깊이 생각해본 후에 커밍아웃을 결심하더라도, 아무에게나 커밍아웃을 하고 싶지 않을 수도 있습니다. 그래도 **괜찮습니다**. 많은 사람들이 여러 가지 이유로 커밍아웃을 하지 않기로 결정하기도 합니다. 충분히 그럴 수 있고, 그렇더라도 어떤 이유에서든 사람들의 지지를 받을 수 있어야 합니다.
 
-## Understanding Identity Types
-Race, ethnicity, (dis)ability, national origin, the language(s) we speak, age, social class, religion/spirituality, and many other identity categories are part of who we are and tell the story of what it’s like to be a unique person. Gender identity and sexual orientation is another piece of that puzzle!
+## 정체성의 종류에 대해 이해하기
+인종, 민족, 장애, 출신 국가, 언어, 나이, 사회적 계급, 종교/영성 및 여러 다른 정체성의 범주들은 우리가 누구인지, 그리고 고유한 개인으로서 어떤 삶을 살아갔는지 말해주기도 합니다. 젠더 정체성과 성적 지향도 그 퍼즐의 또 다른 부분이라고 볼수 있습니다!
 
-Questioning your identity is really common — identity is a complicated thing. If you haven’t figured it out yet, that’s ok! You don’t have to figure it out right now (or ever). Still, taking some time to learn and think through your feelings can help you better understand yourself.
+자신의 정체성에 대해 고민하는 것은 매우 일반적인 일입니다. 정체성은 복잡한 문제이기도 하니까요. 아직 자신의 정체성에 대해 완전히 이해하지 못했더라도 괜찮습니다! 지금 당장 완전이 알아낼 필요도 없고 아예 완전히 알아내지 못하더라도 괜찮습니다. 하지만 여러 가지를 배워보고 자신의 감정에 대해 고민하는 시간을 가지게 되면 자신을 더 잘 이해할 수 있게될 수도 있습니다.
 
-Many people don’t know the differences between **gender identity, sex assigned at birth**, and **sexual orientation**. Let’s explore some of these terms and what they might mean to you!
-
-
-## What Is Sex Assigned at Birth?
-Sex is a classification of a person as male, female, or intersex. When a baby is born, doctors usually decide whether “female” or “male” will be listed on their birth certificates. This sex assignment at birth is typically based on one’s genitals, however, sex characteristics also include non-visible things like chromosomes and sex hormones.
-
-Every single person is different, and not even sex is just “male” and “female.” Intersex is an umbrella term used to describe variations in physical sex traits or reproductive anatomy that are present at birth or emerge spontaneously later in life, and differ from normative expectations of “male” and “female.”
-
-Sex assignment at birth happens to a child before they can speak, walk, or know themselves. As such, sex assignment does not determine gender. Your true gender identity may be different than the sex a doctor assigned to you, and that is totally valid, normal, and wonderful.
+많은 사람들이 **젠더 정체성**, **출생 시 지정된 성별**, **성적 지향**의 차이에 대해 이해하지 못하곤 합니다. 이런 용어들에 대해 살펴보고 어떤 의미로 다가올 수 있는지 살펴보겠습니다!
 
 
-## What is Gender?
-Some people say that gender looks like this:
+## 출생 시 지정된 성별이 무엇인가요?
+성별은 남성, 여성, 인터섹스로 구분되는 사람의 분류입니다. 아기가 태어날 때 의사들이 출생 증명서에 "여성" 혹은 "남성"의 여부를 결정하게 되는데, 이러한 여부는 보통 아기의 생식기를 확인하며 이루어지게 됩니다. 하지만 성징 (혹은 성 특징) 의 범주에 염색체, 성 호르몬과 같이 눈에 보이지 않는 것들이 포함하기도 합니다.
 
-![Some people say that gender looks like this](./attachments/1.png)
+사람들은 서로 다 다릅니다. 그리고 성별만 보더라도 "남성", "여성"만 있는 것이 아닙니다. **인터섹스**는 신체적 성징이나 생식 해부학에서 태어날 때부터 존재하거나 이후에 자발적으로 나타나는 변이를 설명하는 포괄적인 용어인데, 이런 변이는 '남성'과 '여성'의 규범적인 예상과 다를 수도 있습니다.
 
-Others say gender is this:
+출생 시 지정된 성별은 아기가 말하거나 걸을 수 있게 되고, 자신에 대해 생각해보기 전에 지정되게 됩니다. 말 그대로 성별 지정은 젠더를 결정지 않습니다. 여러분의 진정한 젠더 정체성이 의사가 지정해준 성별과 다를 수도 있는데, 충분히 그럴 수 있는 아름답고 정상적인 현상입니다.
 
-![Others say gender is this](./attachments/2.png)
 
-In actuality, gender often looks a lot like…:
+## 젠더가 뭔가요?
+어떤 사람들은 젠더가 다음과 같이 생겼다고 말합니다:
 
-![In actuality, gender often looks a lot like…:](./attachments/3.png)
+![어떤 사람들은 젠더가 다음과 같이 생겼다고 말합니다](./attachments/1.png)
+
+또 어떤 사람들은 젠더를 다음과 같이 생각합니다:
+
+![또 어떤 사람들은 젠더를 다음과 같이 생각합니다](./attachments/2.png)
+
+사실 젠더는 실제로는 이렇게 생겼습니다...:
+
+![사실 젠더는 실제로는 이렇게 생겼습니다...:](./attachments/3.png)
 
 ### Understanding Gender Identity
 [Gender](https://www.thetrevorproject.org/resources/article/understanding-gender-identities/) describes the internal experience of being a man, a woman, a nonbinary person, or otherwise. Every person experiences gender differently — and you cannot know someone’s gender by simply looking at them.

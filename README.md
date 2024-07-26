@@ -121,29 +121,30 @@
 ![성적 매력 지도](./attachments/9.png)
 
 
-### Romantic Attraction
-Romantic attraction is often described as the desire for romantic intimacy or [romantic relationships](https://www.thetrevorproject.org/resources/article/resources-for-healthy-relationships/) with others. For some, this could mean wanting to hold hands, go on dates, kissing and/or cuddling. The list goes on, and it’s all about how you personally feel around each of these expressions of romance.
+### 로맨틱한 매력
+로맨틱한 매력은 종종 다른 사람과 로맨틱한 친밀감이나 [로맨틱한 관계](https://www.thetrevorproject.org/resources/article/resources-for-healthy-relationships/)에 대한 욕구로 설명되곤 합니다. 이런 로맨틱한 친밀감이나 관계가 어떤 사람들에게는 손을 잡고, 데이트를 하며, 키스하거나 포옹하는 것을 의미할수도 있습니다. 목록에 다른 예시가 계속 들어갈수 있는데, 로맨틱한 매력은 이러한 로맨틱한 표현에 대해 어떻게 개인적으로 느끼는지에 관한 내용입니다.
 
-- **Have I ever had a crush on someone before?**
-- **Who have I had crushes on?**
-- **Who do I want to experience romantic behaviors with?**
-- **Who do I want to experience relationships with?**
+- **내가 이전에 누군가에게 반해본 적이 있었나?**
+- **내가 누구에게 반해본 적이 있었나?**
+- **나는 누구와 로맨틱한 행동을 경험해보고 싶은 걸까?**
+- **나는 누구와 로맨틱한 관계를 가지고 싶은 걸까?**
 
-Mark on the **Romantic Attraction Map** on the next page with the ways in which you do or do not feel romantic attraction.
+다음 페이지에 있는 **로맨틱한 매력 지도**에 어떻게 로맨틱한 매력을 느끼거나 느끼지 않는지 표시해보세요.
 
-![Romantic Attraction Map](./attachments/10.png)
+![로맨틱한 매력 지도](./attachments/10.png)
 
 
-### Emotional Attraction
-Emotional attraction is characterized by the desire to connect with others on a deep emotional level. This could look like wanting to become best friends with someone or feeling emotionally “drawn” to someone based on their personality.
+### 감정적 매력
+감정적 매력은 다른 사람들과 깊은 감정적인 수준에서 연결되고자 하는 욕구로 특정지어집니다. 누군과와 절친이 되고 싶거나 사람들의 성격에 기반해서 감정적인 매력을 느끼는 형태일 수도 있습니다.
 
-- **Who do I have strong desires to be emotionally close to?**
-- **Who do I feel an emotional bond towards?**
-- **Who do I want to get to know better?**
+- **나는 누구와 감정적으로 가까워지고 싶은 강한 욕구를 느낄까?**
+- **내가 감정적으로 유대감을 느끼는 사람은 누구일까?**
+- **내가 더 잘 알고 싶은 사람은 누구일까?**
 
 We encourage you to plot out how emotional attraction looks for you on the **Emotional Attraction Map** on the next page. Where do you find yourself?
+다음 페이지에 있는 감정적 매력 지도에 감정적 매력이 어떻게 나타나는지 그려보면 좋을 것 같습니다. 여러분의 감정적 매력은 어디 쯤에 위치할 것 같나요?
 
-![Emotional Attraction Map](./attachments/11.png)
+![감정적 매력 지도](./attachments/11.png)
 
 
 ## Coming Out Considerations

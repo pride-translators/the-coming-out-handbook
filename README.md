@@ -61,10 +61,10 @@
 
 어떤 사람들은 남자와 여자 두 가지 젠더만 존재한다고 배우기도 합니다. 하지만 실제로는 사람들이 (두 가지 젠더만 존재한다는) 그 이분법을 벗어난 젠더를 경험하게 됩니다. 사람이 되는 데에 얼마나 다양한 방식이 있는지 생각해 보세요! 이는 젠더 정체성을 경험하는 방법 또한 그만큼 다양하다는 것을 의미합니다.
 
-- 어떤 나이나 어떤 삶의 단계에 있더라도 자신의 젠더 정체성과 자아를 탐구하는 것은 정상적인 일입니다.
-- 나는 내 젠더를 어떻게 경험하고 있을까?
-- 출생 시 지정된 성별에 관해서 나는 어떤 감정을 느끼고 있을까?
-- 젠더가 나에게 어떤 의미일까?
+- **어떤 나이나 어떤 삶의 단계에 있더라도 자신의 젠더 정체성과 자아를 탐구하는 것은 정상적인 일입니다.**
+- **나는 내 젠더를 어떻게 경험하고 있을까?**
+- **출생 시 지정된 성별에 관해서 나는 어떤 감정을 느끼고 있을까?**
+- **젠더가 나에게 어떤 의미일까?**
 
 시각화 하는 게 도움이 될 수도 있습니다. 다음 섹션에서는 **젠더 정체성 지도**를 살펴보겠습니다. 이 지도에서 점 하나, 여러 점들, 원 하나, 혹은 원하는 아무 모양을 통해 본인이 어떻게 느끼는지 표시해보세요. 오늘 표시한 방식과 내일, 한 달 뒤, 혹은 1년 뒤에 표시한 방식이 달라도 괜찮습니다. 여러분이 선택할 권리가 있습니다.
 
@@ -88,39 +88,39 @@
 전환은 단순히 수술 이상의 복잡한 과정이며, 사회적, 의학적, 그리고/또는 법적인 측면을 포함하여 여러 해에 걸쳐 이루어질 수도 있습니다. 어떤 사람들은 전혀 전환을 하지 않기도 결정할수도 있습니다. 이는 사회의 지지 부족, 개인 안전에 대한 위협, 또는 다른 개인적인 이유 때문일수도 있습니다. 젠더 정체성을 표현하거나 진실한 삶을 사는 데 있어서 "올바른" 방법은 없습니다.
 
 
-## What is Sexual Orientation?
-Some people say that sexual orientation is this:
+## 성적 지향이 뭔가요?
+어떤 사람들은 성적 지향이 다음과 같이 생겼다고 말합니다:
 
-![Some people say that sexual orientation is this](./attachments/6.png)
+![어떤 사람들은 성적 지향이 다음과 같이 생겼다고 말합니다](./attachments/6.png)
 
-Others say sexual orientation is this:
+또 어떤 사람들은 성적 지향이 이렇게 생겼다고 말합니다:
 
-![Others say sexual orientation is this](./attachments/7.png)
+![또 어떤 사람들은 성적 지향이 이렇게 생겼다고 말합니다](./attachments/7.png)
 
-Just like gender, sexual orientation is more expansive too.
+젠더와 마찬가지로, 성적 지향도 생각외로 더 넓습니다.
 
-![Just like gender, sexual orientation is more expansive too](./attachments/8.png)
+![젠더와 마찬가지로, 성적 지향도 생각외로 더 넓습니다](./attachments/8.png)
 
-### Understanding Sexual Orientation
-[Sexual orientation](https://www.thetrevorproject.org/research-briefs/diversity-of-youth-sexual-orientation/) includes different forms of sexual, physical, romantic and emotional attraction, behaviors, and identities. While these are the most commonly known ways of describing orientation, there are other types of attraction as well, including intellectual, sensual, and aesthetic.
+### 성적 지향 이해하기
+[성적 지향](https://www.thetrevorproject.org/research-briefs/diversity-of-youth-sexual-orientation/)은 다양한 형태의 성적, 신체적, 로맨틱 혹은 감정적 매력과 행동, 그리고 정체성을 포함합니다. 이러한 방식들이 성적 지향을 설명하는 가장 흔한 방식이지만, 지적, 감각적, 미적 매력과 같은 다른 종류의 매력도 존재합니다.
 
-In our society, it is often assumed everyone is straight or heterosexual (meaning they are only attracted to people of a different gender). It is also assumed we all experience attraction the same way. Despite what we have been taught, attraction differs from person to person in amazing, unique ways.
+우리 사회에서는 보통 모든 사람이 (다른 성젠더 사람에게만 매력을 느끼는 것을 의미하는) 이성애자라고 가정되곤 합니다. 또한 모든 사람이 동일한 방식으로 매력을 경험한다고 가정하기도 합니다. 우리가 배워온 것과는 달리 매력은 사람마다 놀랍고 고유한 방식으로 나타납니다.
 
 You may experience attraction towards people of just one gender, or multiple genders, or different genders at different times in your life. You may [not experience attraction at all](https://www.thetrevorproject.org/resources/article/understanding-asexuality/) — also completely valid.
 
+한 젠더의 사람들에게만 매력을 느낄 수도 있고, 여러 젠더의 사람들에게 매력을 느낄 수도 있으며, 삶의 다양한 시기에 거쳐서 여러 젠더의 사람들에게 매력을 느낄 수도 있습니다. [전혀 매력을 느끼지 않을 수도 있습니다.](https://www.thetrevorproject.org/resources/article/understanding-asexuality/) 이는 충분히 일어날 수 있는 현상입니다.
 
-### Sexual Attraction
-Sexual attraction is typically the first thing that comes to mind when people think about sexual orientation or attraction in general. This type of attraction is characterized by the desire to be sexually intimate with other people. Physical attraction is often considered a piece of sexual attraction. It can be described as who you find physically attractive.
+### 성적 매력
+성적 매력은 사람들이 성적 지향 또는 일반적으로 매력에 대해 생각할 때 가장 먼저 떠올리게 되는 내용들입니다. 이러한 유형의 매력은 다른 사람과 성적으로 친밀해지고 가까워지고 싶다는 욕구로 특정지어집니다. 신체적 매력은 종종 성적 매력의 일부로 간주되기도 합니다. 이런 현상을 경험했다면 신체적으로 매력을 느꼈다고 설명할수 있습니다.
 
-- **Am I interested in being sexually intimate with others?**
-- **Who am I interested in being sexually intimate with?**
-- **Who do I find physically attractive?**
-- **How often do I experience feelings of sexual/physical attraction?**
+- **내가 다른 사람과 성적으로 친밀해지고 싶을까?**
+- **나는 누구와 성적으로 친밀해지고 싶을까?**
+- **내가 누구를 신체적으로 매력적이라고 느낄까?**
+- **내가 얼마나 자주 성적/신체적 매력을 느낄까?**
 
-Feel free to mark how you experience sexual/physical attraction on the **Sexual Attraction Map** shown on the next page.  
-You can use the guiding questions to get you thinking about where you might land on the map.
+자유롭게 다음 페이지에 있는 **성적 매력 지도** 에 자신이 성적/신체적 매력을 경험하는 방식을 자유롭게 표시해 보세요. 가이드 질문들을 통해 지도 어디에 들어갈지도 생각해봐도 좋습니다.
 
-![Sexual Attraction Map](./attachments/9.png)
+![성적 매력 지도](./attachments/9.png)
 
 
 ### Romantic Attraction
@@ -129,7 +129,7 @@ Romantic attraction is often described as the desire for romantic intimacy or [r
 - **Have I ever had a crush on someone before?**
 - **Who have I had crushes on?**
 - **Who do I want to experience romantic behaviors with?**
-- **Who do I want to experience relationships with?**
+- **Who do I ㄷwant to experience relationships with?**
 
 Mark on the **Romantic Attraction Map** on the next page with the ways in which you do or do not feel romantic attraction.
 

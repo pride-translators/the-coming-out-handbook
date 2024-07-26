@@ -1,5 +1,5 @@
 # 커밍아웃 핸드북
-유용한 정보와 질문들을 통해 커밍아웃이 여러분에게 어떤 의미인지 알아보세요.
+유용한 정보와 가이드 질문들을 통해 커밍아웃이 여러분에게 어떤 의미인지 알아보세요.
 
 > 원문을 읽고 싶으신가요? [여기](https://www.thetrevorproject.org/resources/guide/the-coming-out-handbook/)를 확인해보세요.
 
@@ -8,7 +8,7 @@
 
 **성적 지향** 및/혹은 **젠더 정체성** 에 대해 생각해보게 되면 여러 감정이 들기도 하고 여러 질문들이 생길 수도 있습니다.
 
-이 핸드북에서는 정체성을 탐구해보는 시간을 가져볼 예정입니다. 여러분의 정체성을 다른 사람들에게 알려주는 것이 어떤 것인지 알아보고, 여러분에게 **커밍아웃**이 어떤 의미인지 생각해볼 수 있도록 유용한 정보와 질문들을 살펴보겠습니다.
+이 핸드북에서는 정체성을 탐구해보는 시간을 가져볼 예정입니다. 여러분의 정체성을 다른 사람들에게 알려주는 것이 어떤 것인지 알아보고, 여러분에게 **커밍아웃**이 어떤 의미인지 생각해볼 수 있도록 유용한 정보와 가이드 질문들을 살펴보겠습니다.
 
 사람들이 아주 단편적이고, 판단적, 혹은 무서운 방식으로 "커밍아웃"에 대해 이야기하는 내용을 들어본 적이 있을 것입니다. **하지만 사실은 커밍아웃을 하는 한 가지 정해진 방법만이 있는 게 아닙니다.** 우리가 살아가면서 우리의 **성적 지향** 및/또는 **젠더 정체성**에 대해 알려주고 싶은 사람들이 있을 수도 있고, 이런 내용을 알려주는 것이 편안하거나 안전하다고 느껴지지 않는 사람들도 있을 수 있습니다. 그래도 괜찮습니다!
 
@@ -106,8 +106,6 @@
 
 우리 사회에서는 보통 모든 사람이 (다른 성젠더 사람에게만 매력을 느끼는 것을 의미하는) 이성애자라고 가정되곤 합니다. 또한 모든 사람이 동일한 방식으로 매력을 경험한다고 가정하기도 합니다. 우리가 배워온 것과는 달리 매력은 사람마다 놀랍고 고유한 방식으로 나타납니다.
 
-You may experience attraction towards people of just one gender, or multiple genders, or different genders at different times in your life. You may [not experience attraction at all](https://www.thetrevorproject.org/resources/article/understanding-asexuality/) — also completely valid.
-
 한 젠더의 사람들에게만 매력을 느낄 수도 있고, 여러 젠더의 사람들에게 매력을 느낄 수도 있으며, 삶의 다양한 시기에 거쳐서 여러 젠더의 사람들에게 매력을 느낄 수도 있습니다. [전혀 매력을 느끼지 않을 수도 있습니다.](https://www.thetrevorproject.org/resources/article/understanding-asexuality/) 이는 충분히 일어날 수 있는 현상입니다.
 
 ### 성적 매력
@@ -129,7 +127,7 @@ Romantic attraction is often described as the desire for romantic intimacy or [r
 - **Have I ever had a crush on someone before?**
 - **Who have I had crushes on?**
 - **Who do I want to experience romantic behaviors with?**
-- **Who do I ㄷwant to experience relationships with?**
+- **Who do I want to experience relationships with?**
 
 Mark on the **Romantic Attraction Map** on the next page with the ways in which you do or do not feel romantic attraction.
 

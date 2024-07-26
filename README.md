@@ -1,91 +1,91 @@
 # 커밍아웃 핸드북
-유용한 정보와 질문들을 통해 커밍아웃이 어떤 의미로 다가올수 있는지 알아보세요.
+유용한 정보와 질문들을 통해 커밍아웃이 여러분에게 어떤 의미인지 알아보세요.
 
 > 원문을 읽고 싶으신가요? [여기](https://www.thetrevorproject.org/resources/guide/the-coming-out-handbook/)를 확인해보세요.
 
 \
 **환영합니다!**
 
-**성적 지향** 및/혹은 **젠더 정체성** 에 대해 생각해보게 되면 여러 감정이 들기도 하고 여러 질문들이 있을 수도 있습니다.
+**성적 지향** 및/혹은 **젠더 정체성** 에 대해 생각해보게 되면 여러 감정이 들기도 하고 여러 질문들이 생길 수도 있습니다.
 
-이 핸드북에서는 정체성을 탐구해보는 시간을 가져볼 예정입니다. 정체성을 다른 사람들에게 알려주는 것이 어떤 것인지 알아보고, **커밍아웃**이 어떤 의미인지 생각해볼 수 있도록 유용한 정보와 질문들을 살펴보겠습니다.
+이 핸드북에서는 정체성을 탐구해보는 시간을 가져볼 예정입니다. 여러분의 정체성을 다른 사람들에게 알려주는 것이 어떤 것인지 알아보고, 여러분에게 **커밍아웃**이 어떤 의미인지 생각해볼 수 있도록 유용한 정보와 질문들을 살펴보겠습니다.
 
-아주 단순화되게 다른 사람들에게 판단받을수도 있고 무서운 일이라며 사람들이 "커밍아웃"에 대해 이야기하는 내용을 들어본 적이 있을 것입니다. **하지만 사실 커밍아웃을 하는 데에는 한 가지 정해진 방법만이 있는 게 아닙니다.** 우리가 살아가면서 우리의 **성적 지향** 및/또는 **젠더 정체성**에 대해 알려주고 싶은 사람들이 있을수 있지만, 알려주는 것이 편안하거나 안전하다고 느껴지지 않는 사람들도 있을 수 있습니다. 그래도 괜찮습니다!
+사람들이 아주 단편적이고, 판단적, 혹은 무서운 방식으로 "커밍아웃"에 대해 이야기하는 내용을 들어본 적이 있을 것입니다. **하지만 사실은 커밍아웃을 하는 한 가지 정해진 방법만이 있는 게 아닙니다.** 우리가 살아가면서 우리의 **성적 지향** 및/또는 **젠더 정체성**에 대해 알려주고 싶은 사람들이 있을 수도 있고, 이런 내용을 알려주는 것이 편안하거나 안전하다고 느껴지지 않는 사람들도 있을 수 있습니다. 그래도 괜찮습니다!
 
 > 제 진정한 정체성을 조금씩 알아내가고 있는데, 그러면서 매번 알아가게 되는 제 자신이 더 좋아지게 되는 것 같습니다.
 > 
 > 헤일리, 16살, 버지니아 주
 
-많은 사람들이 **커밍아웃을 한번에 전부 하지는 않습니다.** 보통은 많은 사람들이 여러 번에 걸쳐서 여러 사람들에게 커밍아웃을 하게 됩니다. 예로는 인터넷에서 이야기하는 친구들, 신뢰할 수 있는 가족 구성원들, 혹은 삶에서 알고 지내게 되는 사람 한 명이 될 수도 있습니다.
+많은 사람들에게 있어서 **커밍아웃은 한번에 일어나는 일이 아닙니다.** 많은 사람들이 여러 번에 걸쳐서 여러 사람들에게 커밍아웃을 하게 됩니다. 예시로는 인터넷에서 이야기하는 친구들, 신뢰할 수 있는 가족 구성원들, 혹은 삶에서 알고 지내게 되는 사람 한 명이 될 수도 있습니다.
 
-깊이 생각해본 후에 커밍아웃을 결심하더라도, 아무에게나 커밍아웃을 하고 싶지 않을 수도 있습니다. 그래도 **괜찮습니다**. 많은 사람들이 여러 가지 이유로 커밍아웃을 하지 않기로 결정하기도 합니다. 충분히 그럴 수 있고, 그렇더라도 어떤 이유에서든 사람들의 지지를 받을 수 있어야 합니다.
+깊이 생각해본 후에 커밍아웃을 결심하더라도, 아무에게나 커밍아웃을 하고 싶지 않을수도 있습니다. 그래도 **괜찮습니다**. 많은 사람들이 여러가지 이유로 커밍아웃을 하지 않기로 결정하기도 합니다. 충분히 그럴 수 있고, 그렇더라도 어떤 이유에서든 사람들의 지지를 받을 수 있어야 합니다.
 
 ## 정체성의 종류에 대해 이해하기
-인종, 민족, 장애, 출신 국가, 언어, 나이, 사회적 계급, 종교/영성 및 여러 다른 정체성의 범주들은 우리가 누구인지, 그리고 고유한 개인으로서 어떤 삶을 살아갔는지 말해주기도 합니다. 젠더 정체성과 성적 지향도 그 퍼즐의 또 다른 부분이라고 볼수 있습니다!
+인종, 민족, 장애/능력, 출신 국가, 사용하는 언어, 나이, 사회적 계급, 종교/영성 및 여러 범주의 다른 정체성들은 우리가 누구인지를 이루고 있으며, 우리가 고유한 개인으로서 어떤 삶을 살아갔는지 말해주기도 합니다. 젠더 정체성과 성적 지향도 이 퍼즐의 또 다른 한 조각이기도 합니다!
 
-자신의 정체성에 대해 고민하는 것은 매우 일반적인 일입니다. 정체성은 복잡한 문제이기도 하니까요. 아직 자신의 정체성에 대해 완전히 이해하지 못했더라도 괜찮습니다! 지금 당장 완전이 알아낼 필요도 없고 아예 완전히 알아내지 못하더라도 괜찮습니다. 하지만 여러 가지를 배워보고 자신의 감정에 대해 고민하는 시간을 가지게 되면 자신을 더 잘 이해할 수 있게될 수도 있습니다.
+자신의 정체성에 대해 고민하는 것은 매우 일반적인 일입니다. 정체성은 복잡한 문제이기도 하니까요. 아직 완전히 알아내지 못했더라도 괜찮습니다! 지금 당장 완전히 알아낼 필요는 없습니다. (혹은 아예 완전히 알아내지 못하더라도 괜찮습니다). 하지만 여러가지를 배워보면서 자신의 감정에 대해 고민하는 시간을 가지게 되다보면 자신을 더 잘 이해할 수 있게 될수도 있습니다.
 
-많은 사람들이 **젠더 정체성**, **출생 시 지정된 성별**, **성적 지향**의 차이에 대해 이해하지 못하곤 합니다. 이런 용어들에 대해 살펴보고 어떤 의미로 다가올 수 있는지 살펴보겠습니다!
+많은 사람들이 **젠더 정체성**, **출생 시 지정된 성별**, **성적 지향**의 차이에 대해 이해하지 못하곤 합니다. 이런 용어들에 대해 살펴보고 여러분에게 이 용어들이 어떤 의미인지 살펴보겠습니다!
 
 
 ## 출생 시 지정된 성별이 무엇인가요?
-성별은 남성, 여성, 인터섹스로 구분되는 사람의 분류입니다. 아기가 태어날 때 의사들이 출생 증명서에 "여성" 혹은 "남성"의 여부를 결정하게 되는데, 이러한 여부는 보통 아기의 생식기를 확인하며 이루어지게 됩니다. 하지만 성징 (혹은 성 특징) 의 범주에 염색체, 성 호르몬과 같이 눈에 보이지 않는 것들이 포함하기도 합니다.
+성별은 남성, 여성, 혹은 인터섹스로 구분되는 사람의 분류입니다. 아기가 태어날 때, 의사들이 출생 증명서에 기재될 "여성" 혹은 "남성"의 여부를 결정하게 되는데, 이러한 여부는 보통 아기의 생식기를 확인하며 이루어지게 됩니다. 이러한 출생 시 성별 할당은 아기의 생식기를 통해 정해지게 되지만 성징의 범주에 염색체, 성 호르몬과 같이 눈에 보이지 않는 것들이 포함하기도 합니다.
 
-사람들은 서로 다 다릅니다. 그리고 성별만 보더라도 "남성", "여성"만 있는 것이 아닙니다. **인터섹스**는 신체적 성징이나 생식 해부학에서 태어날 때부터 존재하거나 이후에 자발적으로 나타나는 변이를 설명하는 포괄적인 용어인데, 이런 변이는 '남성'과 '여성'의 규범적인 예상과 다를 수도 있습니다.
+사람들은 서로 다 다릅니다. 그리고 성별만 보더라도 "남성", "여성"만 있는 것이 아닙니다. **인터섹스**는 신체적 성징이나 생식 해부학에서 태어날 때부터 존재하거나 이후에 자발적으로 나타나고, '남성'과 '여성'의 규범적인 예상과 다를 수도 있는 변이를 설명하는 포괄적인 용어입니다.
 
-출생 시 지정된 성별은 아기가 말하거나 걸을 수 있게 되고, 자신에 대해 생각해보기 전에 지정되게 됩니다. 말 그대로 성별 지정은 젠더를 결정지 않습니다. 여러분의 진정한 젠더 정체성이 의사가 지정해준 성별과 다를 수도 있는데, 충분히 그럴 수 있는 아름답고 정상적인 현상입니다.
-
+출생 시 할당된 성별은 아기가 말하거나 걸을 수 있게 되고, 자신에 대해 알게 되기 전에 지정되게 됩니다. 그러므로 성별 할당이 젠더를 결정하진 않습니다. 여러분의 진정한 젠더 정체성이 의사가 지정해준 성별과 다를 수도 있는데, 이는 충분히 일어날수 있는 아름답고 정상적인 현상입니다.
 
 ## 젠더가 뭔가요?
 어떤 사람들은 젠더가 다음과 같이 생겼다고 말합니다:
 
 ![어떤 사람들은 젠더가 다음과 같이 생겼다고 말합니다](./attachments/1.png)
 
-또 어떤 사람들은 젠더를 다음과 같이 생각합니다:
+또 어떤 사람들은 젠더가 이렇게 생겼다고 말합니다:
 
-![또 어떤 사람들은 젠더를 다음과 같이 생각합니다](./attachments/2.png)
+![또 어떤 사람들은 젠더가 이렇게 생겼다고 말합니다](./attachments/2.png)
 
-사실 젠더는 실제로는 이렇게 생겼습니다...:
+사실 젠더는 이렇게 생겼습니다...:
 
-![사실 젠더는 실제로는 이렇게 생겼습니다...:](./attachments/3.png)
+![사실 젠더는 이렇게 생겼습니다...:](./attachments/3.png)
 
-### Understanding Gender Identity
-[Gender](https://www.thetrevorproject.org/resources/article/understanding-gender-identities/) describes the internal experience of being a man, a woman, a nonbinary person, or otherwise. Every person experiences gender differently — and you cannot know someone’s gender by simply looking at them.
-
-**Commonly known genders include:**
-
-- **Cisgender:** people whose gender identity aligns with the sex they were assigned at birth.
-- **Transgender:** people whose gender identity differs from the sex they were assigned at birth. Some folks might choose to receive certain gender affirming care but this is not necessary and each person should be allowed to choose what works best for themselves.
-- **Nonbinary:** an umbrella term to describe people who experience their gender identity and/or expression outside of the man/woman binary, including folks who are genderfluid, genderqueer, polygender, bigender, demigender, agender, and many others.
-- **Two-Spirit:** an umbrella term created by First Nations/Native American/Indigenous peoples to describe a sexual orientation and/or gender/sex that exists outside of colonial constructions of the gender binary (neither man nor woman, but a distinct, alternative gender status exclusive to their ethnicity). This term should not be appropriated by or used to describe people who are not First Nations/Native American/Indigenous.
-
-Some people have been taught that there are only two genders: man and woman. In fact, people experience gender outside of that binary (meaning made up of two). Think of how many different ways there are to be a person! That means there are just as many ways to experience gender identity.
-
-- **Exploring your gender identity and self is normal at all ages and at any stage in life.**
-- **How do I experience my gender?**
-- **How do I feel in relation to the sex I was assigned at birth?**
-- **What does gender mean to me?**
-
-It can be helpful to visualize. In the next section is a **Gender Identity Map** where you can mark how you feel — with a single dot, many dots, a circle, anything that feels right. You have the right to mark the map one way today and another way tomorrow, a month, a year from now!
-
-![Gender Identity Map](./attachments/4.png)
+### 젠더 정체성 이해하기
+[젠더](https://www.thetrevorproject.org/resources/article/understanding-gender-identities/)는 내면에서 남자, 여자, 논바이너리, 혹은 다른 무언가로 느껴지는 현상을 설명합니다. 모든 사람이 젠더를 다르게 경험하고, 단순히 보는 것만으로는 누군가의 젠더를 알수 없기도 합니다.
 
 
-### Gender Expression
-- **How do I like to present my gender?**
-- **In an ideal situation, how would I want to express my gender?**
-- **What aspects of gender expression make me feel happy and authentically myself?**
-- **What aspects of gender expression make me feel sad and not like myself?**
+**일반적으로 알려진 젠더는 다음을 포함합니다:**
 
-In the next section is another map for you to decorate: a **Gender Expression Map**. Remember it is more than okay for your feelings to shift over time. Maybe you present really androgynously (having characteristics that are both masculine and feminine) for a long time. Maybe you present super feminine for a year, and then try more masculine expressions. Maybe you fluctuate all the time! Whoever you are, your map reflects the personal relationship you have with your gender expression.
+- **시스젠더:** 젠더 정체성이 출생 시 지정된 성별과 일치하는 사람들.
+- **트랜스젠더:** 젠더 정체성이 출생 시 지정된 성별과 다른 사람들. 어떤 사람들은 특정 젠더 확일화 치료를 받을 수도 있지만, 이러한 치료는 필수가 아니며 각자가 개인에게 가장 잘 맞는 방식을 선택할 수 있어야 합니다.
+- **논바이너리:** 남자/여자의 이분법을 넘어서서 젠더 정체성 및/또는 표현을 경험하는 사람들을 설명하는 포괄적인 용어. 논바이너리의 예시는 젠더플루이드 (genderfluid), 젠더퀴어 (genderqueer), 폴리젠더 (polygender), 바이젠더 (bigender), 에이젠더 (agender) 등을 포함합니다.
+- **투스피릿:** 미국의 제1국민/원주민/토착민들이 (남자도 여자도 아니지만 그들 민족에 고유한 독특한 젠더 상태를 타나내는) 식민지적 젠더 이분법의 개념을 넘어서서 존재하는 성적 지향 및/혹은 젠더/성을 설명하기 위해 만들어낸 포괄적인 용어입니다. 이 용어는 미국 제1국민/원주민/토착민이 아닌 사람들에 의해 차용되거나 스스로를 설명할 때 사용되어서는 안됩니다.
 
-![Gender Expression Map](./attachments/5.png)
+어떤 사람들은 남자와 여자 두 가지 젠더만 존재한다고 배우기도 합니다. 하지만 실제로는 사람들이 (두 가지 젠더만 존재한다는) 그 이분법을 벗어난 젠더를 경험하게 됩니다. 사람이 되는 데에 얼마나 다양한 방식이 있는지 생각해 보세요! 이는 젠더 정체성을 경험하는 방법 또한 그만큼 다양하다는 것을 의미합니다.
+
+- 어떤 나이나 어떤 삶의 단계에 있더라도 자신의 젠더 정체성과 자아를 탐구하는 것은 정상적인 일입니다.
+- 나는 내 젠더를 어떻게 경험하고 있을까?
+- 출생 시 지정된 성별에 관해서 나는 어떤 감정을 느끼고 있을까?
+- 젠더가 나에게 어떤 의미일까?
+
+시각화 하는 게 도움이 될 수도 있습니다. 다음 섹션에서는 **젠더 정체성 지도**를 살펴보겠습니다. 이 지도에서 점 하나, 여러 점들, 원 하나, 혹은 원하는 아무 모양을 통해 본인이 어떻게 느끼는지 표시해보세요. 오늘 표시한 방식과 내일, 한 달 뒤, 혹은 1년 뒤에 표시한 방식이 달라도 괜찮습니다. 여러분이 선택할 권리가 있습니다.
+
+![젠더 정체성 지도](./attachments/4.png)
 
 
-### What Does Transitioning Look Like?
-Transitioning looks different for different people, and there is no right way to express your gender. Some people physically and/or medically transition; others do not. This may be related to personal expression, lack of access to gender-affirming healthcare, medical conditions that prevent certain procedures, or other reasons.
+### 젠더 표현
+- 나는 어떻게 내 젠더를 표현하고 싶을까?
+- 이상적인 상황에서, 나는 내 젠더를 어떻게 표현하고 싶을까?
+- 젠더 표현의 어떤 측면의 나를 행복하고 참되게 만들까?
+- 젠더 표현의 어떤 측면이 나를 슬프게 하고 나 자신이 아닌 것처럼 느끼게 만들까?
 
-Transitioning is more complicated than just a surgery, and can take place over a number of years, involving social, medical, and/or legal aspects of transition. Some people decide not to transition at all. This may be for lack of supportive community, risk to personal safety, or other personal reasons. There is no “right” way to express your gender identity or to live your truth.
+다음 섹션에는 꾸며볼 또 다른 지도가 있습니다. 이 지도를 **젠더 표현 지도**라고 부르겠습니다. 시간이 지나면서 여러분의 감정이 변하는 것은 매우 자연스러운 현상입니다. 오랜 시간 동안 (남자와 여자의 특징을 둘 다 띄는) 앤드로지니한 방식으로 표현할수도 있습니다. 한 해 동안은 아주 여성적으로 표현한 후 더 남성적인 표현을 시도해볼 수도 있습니다. 여러분이 누구이든지 간에, 이 지도는 여러분이 젠더 표현과 가지고 있는 개인적인 관계를 반영합니다.
+
+![젠더 표현 지도](./attachments/5.png)
+
+
+### 젠더 전환은 어떻게 이루어질까요?
+전환은 사람마다 다르게 일어나는데, 젠더를 표현하는 올바른 방법은 없습니다. 어떤 사람들은 신체적 혹은 의학적으로 전환을 하지만 어떤 사람들은 하지 않을수도 있습니다. 이는 개인적인 표현, 젠더 확일화 치료의 접근성 부족, 특정 시술을 막는 의학적 상태, 혹은 다른 이유와 관련이 있을 수도 있습니다.
+
+전환은 단순히 수술 이상의 복잡한 과정이며, 사회적, 의학적, 그리고/또는 법적인 측면을 포함하여 여러 해에 걸쳐 이루어질 수도 있습니다. 어떤 사람들은 전혀 전환을 하지 않기도 결정할수도 있습니다. 이는 사회의 지지 부족, 개인 안전에 대한 위협, 또는 다른 개인적인 이유 때문일수도 있습니다. 젠더 정체성을 표현하거나 진실한 삶을 사는 데 있어서 "올바른" 방법은 없습니다.
 
 
 ## What is Sexual Orientation?

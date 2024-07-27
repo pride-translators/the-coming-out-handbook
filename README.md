@@ -275,73 +275,75 @@
 - 여러분은 있는 그대로 소중한 사람임을 잊지 말아주세요.
 
 
-## Community Care
-Leaning on the people around you is better than going at it alone. There are a lot of ways to get care from your community and provide care for others in your community. Whether that’s by visiting a local LGBTQ+ center in your area, connecting online with folks, or another way of community building, it can be really beneficial to reach out.
+## 커뮤니티 케어
+주변 사람들에게 의지하는 것이 혼자서 하는 것보다 낫습니다. 사회에서 케어를 받고 다른 사람들도 케어해주는 데에는 여러 가지 방법이 있습니다. 살고있는 동네의 LGBTQ+ 센터를 방문하거나, 온라인에서 사람들과 연결하거나, 혹은 다른 방식으로 커뮤니티를 형성하는 것이 매우 유익할 수 있습니다.
 
-**Many LGBTQ+ Centers provide the following services:**
-- Direct access or referral to [LGBTQ+-affirming mental and medical health providers](https://www.thetrevorproject.org/resources/guide/lgbtq-youth-health-care/), legal services, nonprofit programming, housing/shelter needs, etc.
-- Consultation services to assist in program development or incident resolution
-- [Cultural competency training](https://www.thetrevorproject.org/ally-training/) for agencies, districts, schools, etc.
-- LGBTQ+-affirming and informed mental health professionals on staff
-- Ongoing programming for youth and adults
+**많은 LGBTQ+ 센터에서는 다음과 같은 서비스를 제공합니다:**
+- [LGBTQ+ 친화적인 정신 및 의료 건강 제공자](https://www.thetrevorproject.org/resources/guide/lgbtq-youth-health-care/), 법률 서비스, 비영리 프로그램, 주거/쉼터 필요 등에 대한 직접적인 접근 또는 추천.
+- 프로그램 개발 또는 사건 해결을 지원하는 상담 서비스
+- 기관, 지구, 학교 등을 위한 [문화적 역량 교육](https://www.thetrevorproject.org/ally-training/)
+- LGBTQ+ 친화적이고 정보가 풍부한 정신 건강 전문가가 상시 근무
+- 청소년과 성인을 위한 프로그램
 
-**TrevorSpace** is a global online community for LGBTQ+ young people perfect for making connections and building community.
-
-
-## Checking in on Your Mental Health
-
-### Warning Signs
-Feeling sad and alone can be overwhelming, especially if people in your life are unsupportive. While these feelings are completely normal, it’s important to keep an eye out for warning signs of larger mental health struggles. You are not alone and asking for help is a sign of strength.
-
-**Have You Felt**:
-
-- Unimportant
-- Alone
-- Impulsive
-- Suicidal
-- Overwhelmed / Unmotivated
-- Trapped / Hopeless
-- Angry / Irritable
-
-**Have You Been**:
-
-- Giving away your most valuable possessions
-- Losing interest in your favorite things to do
-- Planning for death by writing a will or letter
-- Eating or sleeping more or less than usual
-- Feeling more sick, tire, or achy than usual
-- Using drugs or alcohol more than usual
-
-**Do You:**
-
-- Not care about the future
-- Put yourself down (and think you deserve it)
-- Plan to say goodbye to important people
-- Have a specific plan for suicide
-
-If you answered yes to any of these questions, you can reach out to a trained crisis counselor for support by calling **[TrevorLifeline](tel:1-866-488-7386)**, texting **START** to **[678678](tel:678-678)** for **TrevorText**, or by visiting [**TrevorChat**](https://www.thetrevorproject.org/webchat) — We’re here for you 24/7. You are not alone.
+**TrevorSpace**는 LGBTQ+인 청소년들이 연결하고 커뮤니티를 형성할 수 있는 글로벌 온라인 커뮤니티입니다.
 
 
-## Additional LGBTQ+ Friendly Resources
-Gender:
+## 정신 건강 점검하기
+
+### 경고 신호
+사람들이 지지해주지 않을 때 슬프고 외로운 느낌이 압도적으로 다가올 수 있습니다. 이러한 감정은 완전히 정상이지만, 더 큰 정신 건강 문제의 경고 신호를 놓치지 않는 것이 중요합니다. 여러분은 혼자가 아니며, 도움을 요청하는 것은 강함의 표시입니다.
+
+**다음과 같이 느낀 적이 있으신가요?**:
+
+- 내가 중요하지 않다고 느낌
+- 혼자라고 느낌
+- 충동적임
+- 자살 충동이 듬
+- 압도됨 / 무기력함
+- 갇힌 느낌이 듬 / 희망이 없다고 느낌
+- 분노 / 짜증
+
+**다음과 같은 행동을 한 적이 있으신가요?**:
+
+- 자신의 가장 소중한 소유물을 남에게 줌
+- 좋아하던 것들에 대한 흥미를 상실함
+- 유서나 편지를 작성하며 죽음을 계획함
+- 평소보다 많이 또는 적게 먹음 / 평소보다 많이 또는 적게 잠
+- 평소보다 더 자주 아프거나 피곤하거나 통증을 느낌
+- 평소보다 더 많이 약물이나 알코올을 사용함
+
+**다음과 같은 생각을 하시나요?:**
+
+- 미래에 대해 신경쓰지 않음
+- 자신을 비하함 (그리고 본인이 비하받아야 마땅하다고 생각함)
+- 중요한 사람들에게 작별 인사를 계획함
+- 자살에 대한 구체적인 계획을 가지고 있음
+
+이 질문들 중 하나라도 "예" 라고 답했다면 교육받은 위기 상담사에게 지원을 요청할 수 있습니다. **[TrevorLifeline](tel:1-866-488-7386)**에 전화하거나, TrevorText 이용을 위해 **[678678](tel:678-678)** 번호에 **START** 라고 문자를 보내거나, [**TrevorChat**](https://www.thetrevorproject.org/webchat) 웹사이트를 방문해보세요. 24시간 도움을 드리기 위해 기라디고 있겠습니다. 당신은 혼자가 아닙니다.
+
+(한국에서는 해당 번호로 전화가 걸리지 않을 수도 있습니다.)
+
+
+## 추가 LGBTQ+ 친화적 자료
+젠더:
 
 - [Gender Spectrum](https://www.genderspectrum.org/)
 - [TransLifeline](https://translifeline.org/)
 - [Trans Youth Family Allies](http://www.imatyfa.org/)
 
-Legal:
+법률:
 
 - [Lambda Legal](https://lambdalegal.org/)
 - [Human Rights Campaign](https://www.hrc.org/)
 
-Mental Health:
+정신 건강:
 
 - [Online Therapy](https://www.onlinetherapy.com/)
 - [988SuicidePreventionLifeline](https://988lifeline.org/)
 - [It Gets Better Project](https://itgetsbetter.org/)
 - [Scarleteen](https://www.scarleteen.com/)
 
-Family and Community:
+가족과 지역사회:
 
 - [Family Acceptance Project](https://familyproject.sfsu.edu/)
 - [Gay, Lesbian, Straight Education Network](https://www.glsen.org/)
@@ -353,13 +355,13 @@ Family and Community:
 - [LGBTQ+ National Help Center](https://lgbthotline.org/)
 
 
-## Trevor Programs
-**Map Your Own Identity**
+## Trevor 프로그램
+**자신의 정체성 지도 그리기**
 
-You can download and print the **Gender Identity** and **Sexual Orientation “Maps”** shown in the **Basics** section of this handbook and fill them out based on how you personally feel right now. It’s okay to not have everything figured out.
+이 핸드북의 **기본 정보 (Basics)** 섹션에서 **젠더 정체성**과 **성적 지향 “지도”**를 다운로드하고 인쇄하여 현재 자신이 느끼는 대로 작성해보세요. 모든 것을 당장 다 알아낼 필요는 없습니다.
 
-It’s also okay if you change your mind and find yourself feeling differently tomorrow, next week, or next year.
+내일, 다음 주, 또는 내년에 생각이 바뀌고 다르게 느끼는 것도 괜찮습니다.
 
-**The Trevor Project is the leading suicide prevention organization for lesbian, gay, bisexual, transgender, queer, and questioning (LGBTQ+) young people.**
+**The Trevor Project는 레즈비언, 게이, 양성애자, 트랜스젠더, 퀴어 및 질문 중인(LGBTQ+) 청소년 자살 예방 선도 단체입니다.**
 
-We provide 24/7 crisis services for LGBTQ+ young people via a phone lifeline, text, and chat. We also operate innovative research, advocacy, public training, and peer support programs.
+우리는 자살 예방 전화, 문자, 채팅을 통해 24시간 내내 LGBTQ+ 청소년들을 위한 위기 지원 서비스를 제공합니다. 우리는 또한 혁신적인 연구, 옹호, 공공 교육 및 동료 지원 프로그램을 운영합니다.

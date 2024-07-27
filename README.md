@@ -146,94 +146,93 @@
 ![감정적 매력 지도](./attachments/11.png)
 
 
-## Coming Out Considerations
-Coming out is an incredibly personal decision. There is no right or wrong way to do it — but taking stock of who in your life supports you can make a big difference.
+## 커밍아웃 시 고려할 점들
+커밍아웃은 매우 개인적인 결정입니다. 맞고 틀린 방법이 없지만 삶에서 누가 여러분을 지지하는지 파악하는 것이 큰 차이가 될수도 있습니다.
 
-**There are lots of different ways to come out:**
+**커밍아웃을 하는 데에는 많고 다양한 방법들이 있습니다:**
 
-- Calling someone on the phone
-- Sending someone a text
-- Sending an email
-- Writing a letter
-- Talking with someone in person
+- 누군가에게 전화하기
+- 누군가에게 문자 메세지 보내기
+- 이메일 보내기
+- 편지 쓰기
+- 실제로 만나서 이야기하기
 
-### Planning Ahead
-You might decide to take some time to prepare what you want to say. Writing out how you might want to come out to someone can be useful. Practicing with supportive people can also help in figuring out what you want to say and how you want to say it.
+### 먼저 계획하기
+어떤 말을 할지 준비하는 시간을 가지기로 했을수도 있습니다. 어떤 말을 하고싶은지 써보는 것도 도움이 됩니다. 지지해주는 사람들과 연습해보는 것도 어떤 내용을 어떻게 말하고 싶은지 파악하는데 도움이 될수 있습니다.
 
-- **How do I want to come out to them?**
-- **What would I say to someone I want to come out to?**
-- **What would I expect them to say?**
-- **Is there a way I would want to prepare prior to coming out?**
+- **내가 어떻게 커밍아웃을 하고싶은 걸까?**
+- **커밍아웃 하고싶은 사람에게 뭐라고 말을 해야할까?**
+- **상대방이 뭐라고 말할 것으로 예상이 될까?**
+- **커밍아웃을 하기 앞서서 준비하고 싶은 방법이 있을까?**
 
-If you are thinking about coming out, it can be important to think about the range of reactions people may have, including the good ones and the bad ones. Here are some questions to think through how they might react:
+커밍아웃을 고려하고 있다면 좋고 안좋은 반응들을 포함해서 사람들이 보일 수 있는 다양한 반응에 대해 생각해보는 것이 중요할 수 있습니다. 사람들이 어떻게 반응할지 생각해 볼수 있는 질문들을 확인해보세요:
 
-- **What are some of the good responses I may hear?**
-- **What are some of the bad responses I may hear?**
-- **What do I expect their reactions will be, based on what I know about the person I’m sharing with?**
-- **How do I want them to react?**
+- **내가 들을 수 있는 긍정적인 반응은 무엇일까?**
+- **내가 들을 수 있는 부정적인 반응은 무엇일까?**
+- **커밍아웃하려는 상대방에 대해 내가 알고 있는 것들을 바탕으로, 그 사람의 반응이 어떨 것이라고 예상될까?**
+- **내가 상대방으로부터 원하는 반응은 어떤 것일까?**
 
-Keep in mind that other people’s reactions can be quite varied.
-
-
-### Testing the Waters
-Figuring out how people feel about LGBTQ+ people and topics can give you an idea about how they might possibly react to you coming out (though not always).
-
-**Some ways that other people have tested the waters:**
-
-- Asking how they feel about an LGBTQ+ celebrity
-- Asking how they feel about marriage equality
-- Listening to their words: Do they put down LGBTQ+ people? Do they invoke LGBTQ+ stereotypes?
-- Noticing how they handle difficult emotional events, which can help you guess what reactions to be ready for.
-
-Sometimes the people we come out to ask a lot of questions. It’s okay not to have all the answers; it is not your job to be the expert on your identities. If you feel comfortable, you are always welcome to answer these potential questions, but you don’t owe anyone any information that you aren’t comfortable sharing.
+사람들이 반응이 매우 다양할 수 있다는 점을 기억해주세요.
 
 
-### Social Factors for Coming Out
+### 간 보기
+사람들이 LGBTQ+인 사람들이나 주제들에 대해 어떻게 느끼는지 알아보는 것이 커밍아웃 이후 반응을 예측하는 데 도움이 될수도 있습니다. (물론 항상 그렇지는 않습니다.)
 
-#### Timing
-There is no perfect time to come out. In fact, the best time will probably change depending on who you want to tell. Sometimes, it is helpful to wait for a time when the person you tell feels relaxed, open, and willing to listen. Other times, you may need to share at a random moment. It is about whenever it feels right to you. Here are some questions to think through to explore timing that might work for you:
+**다른 사람들이 간을 볼때 사용한 몇 가지 방법:**
 
-- **What time works best for me to come out?**
-- **What time of day feels like a good time to share? (before school, after work, during dinner, etc.)**
-- **What time of year feels like a good time to share? (school season, summer, holidays, etc.)**
-- **What time works best for the person I want to come out to?**
+- LGBTQ+인 연예인에 대해 어떻게 생각하는지 물어보기
+- 결혼 평등에 대해 어떻게 생각하는지 물어보기 (예: 동성 결혼)
+- 유심히 말 들어보기: LGBTQ+인 사람들을 비하하는가? LGBTQ+ 관련 고정관념들을 자주 말하는가?
+- 감정적으로 어려운 일들을 어떻게 해쳐나가는지 관찰해보기. 반응을 예상하고 준비하는데 도움이 될수 있습니다.
 
-
-#### Location & Environment
-Like timing, there is also no perfect place to come out.  
-Some places might be safer or more comfortable for you than others.
-
-- **Would I rather be in a public or private space?**
-- **Does home feel like a safe place to talk?**
-- **Where would we both be comfortable talking?**
-- **Is there a location special to me and the person I’m talking with?**
+가끔은 커밍아웃할 사람들이 질문을 많이 할수도 있습니다. 자신의 정체성에 대한 전문가가 될 필요도 없고 모든 질문의 답변을 준비하지 않아도 괜찮습니다. 괜찮다면 이런 질문들을 먼저 생각해보는 것도 괜찮지만, 불편할 경우에는 누구에게도 답변할 의무가 없다는 것을 기억해주세요.
 
 
-#### School
-Coming out at school can be a great way for some to connect with other LGBTQ+ classmates. Still, school can be an unsafe place for many people. When thinking about coming out at school, make sure to keep your safety and wellness in mind. You may want to make a safety plan for school if you feel like you might face some tough times.
+### 고려하면 좋은 사회적 요인들
 
-- **How would being out at school make me feel?**
-- **Who would I want to share with at school?**
-- **Are there supportive faculty members, counselors, teachers or adults at my school?**
-- **Is there a Gender & Sexuality Alliance (GSA) or similar club/community that I feel comfortable attending?**
-- **Are there anti-bullying rules that protect LGBTQ+ students that are enforced?**
-- **Will coming out put my safety at risk? If so, what steps can I take to stay safe?**
+#### 시기
+커밍아웃을 하는데 완벽한 시기는 없습니다. 사실 누구에게 이야기하냐에 따라 최적의 시간이 달라질 수도 있습니다. 가끔은 상대방이 편안하고 열린 마음으로 듣고자 할 때가지 기다리는 것이 도움이 될 수도 있습니다. 다른 때에는 갑자기 말해야 하는 경우도 있습니다. 여러분이 옳다고 느낄 때가 가장 중요합니다. 적절한 시기를 생각해 보는데 도움이 될수 있는 몇 가지 질문들을 확인해보세요:
+
+- **커밍아웃을 하기에 나에게 가장 좋은 시간은 언제일까?**
+- **어느 시간대가 이야기를 나누기에 좋은 시간으로 느껴질까? (학교 가기 전, 퇴근 후, 저녁 시간 등)**
+- **한 해의 어떤 시기가 이야기를 나누기에 좋은 시기로 느껴질까? (학기 전, 여름, 휴일 등)**
+- **커밍아웃할 상대방에게 가장 좋은 시간은 언제일까?**
 
 
-### Support Systems
-Think about people in your life who would support you no matter what.
+#### 위치와 환경
+시기와 마찬가지로 커밍아웃을 하는 데에 완벽한 장소도 없습니다. 어떤 장소가 다른 장소보다 더 안전하고 더 편안할수도 있습니다.
 
-- **Who do I feel safe with?**
-- **Who do I feel comfortable sharing about my life with?**
-- **Who in my life has my back no matter what?**
-- **Who in my life builds up my confidence?**
+- **공공 장소가 좋을까 아니면 개인적인 공간이 좋을까?**
+- **집이 이야기를 나누기에 안전한 장소로 느껴질까?**
+- **나와 상대방 둘 다 편안하게 이야기할수 있는 장소가 어디일까?**
+- **나와 이야기하는 사람에게 특별하게 느껴지는 장소가 있을까?**
 
-These supportive people could be:
-- Real-life and online friends, classmates
-- Team members, school club members, online communities
-- Teachers, counselors, doctors, co-workers
-- Family members, caretakers, parents, siblings, cousins, neighbors
-- Religious or spiritual leaders
+
+#### 학교
+어떤 사람들에게는 학교에서 커밍아웃하는 것은 다른 LGBTQ+인 급우들과 연결될 수 있는 좋은 기회가 될수도 있습니다. 하지만 학교는 많은 사람들에게 있어서 안전하지 않은 장소일 수도 있습니다. 학교에서 커밍아웃을 고려할 때, 당신의 안전과 안녕을 항상 우선시해주세요. 어려운 시간을 보낼 것 같다고 생각이 든다면 학교에서의 안전 계획을 세우는 것도 도움이 될 수도 있습니다.
+
+- **학교에서 커밍아웃을 하면 어떤 느낌이 들까?**
+- **학교에서 누구에게 알려주고 싶을까?**
+- **내가 다니는 학교에 지지해줄 수 있는 교직원, 상담사, 선생님 또는 다른 어른들이 있을까?**
+- **내가 참석하기 편안하게 느껴지는 젠더와 섹슈얼리티 연합 (Gender & Sexuality Alliance / GSA) 이나 비슷한 동아리/커뮤니티가 있을까?**
+- ***시행되고 있는 LGBTQ+인 학생들을 보호하는 반 괴롭힘 정책이 있을까?**
+- **커밍아웃하는 것이 내 안전을 위협할 가능성이 있을까? 있다면 안전을 유지하기 위해 어떤 조치를 취할 수 있을까?**
+
+
+### 지원 체계
+어떤 일이 있든 항상 지지해줄수 있는 사람들을 생각해보세요.
+
+- **내가 안전하다고 느끼는 사람은 누구일까?**
+- **내 삶에 대해 이야기할때 편안하게 이야기할수 있는 사람은 누구일까?**
+- **무슨 일이 있어도 나를 지지해줄수 있는 사람은 누구일까?**
+- **내 자신감을 북돋아주는 사람은 누구일까?**
+
+이렇게 지지해줄수 있는 사람들에는 다음이 있습니다:
+- 실제 삶 혹은 온라인에서 이야기하는 친구들, 학급 친구들
+- 팀원 (예: 스터디 그룹 조장, 동아리 회원, 학원 친구 등), 동아리 회원, 온라인 커뮤니티
+- 선생님, 상담사, 의사, 직장 동료
+- 가족 구성원, 돌봄 제공자, 부모, 형제자매, 사촌, 이웃
+- 종교나 영적 지도자
 
 
 ## Safety Considerations for Coming Out

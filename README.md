@@ -365,3 +365,5 @@
 **The Trevor Project는 레즈비언, 게이, 양성애자, 트랜스젠더, 퀴어 및 질문 중인(LGBTQ+) 청소년 자살 예방 선도 단체입니다.**
 
 우리는 자살 예방 전화, 문자, 채팅을 통해 24시간 내내 LGBTQ+ 청소년들을 위한 위기 지원 서비스를 제공합니다. 우리는 또한 혁신적인 연구, 옹호, 공공 교육 및 동료 지원 프로그램을 운영합니다.
+
+[PDF 포맷 다운로드](https://www.thetrevorproject.org/wp-content/uploads/2021/08/TTP_Coming-Out-A-Handbook-for-LGBTQ-Young-People.pdf)

@@ -235,47 +235,44 @@
 - 종교나 영적 지도자
 
 
-## Safety Considerations for Coming Out
-Sometimes, coming out doesn’t go according to our hopes and plans. If people don’t react the way we wish, it does not reflect on the realness of our identities, and it is not our fault. You deserve to be accepted with open arms, care, and love. In situations where things are feeling unsafe or you expect that they might be, it could make sense to prepare a back-up plan for housing, food, school, and/or transportation, just in case. Your safety and well-being are of the utmost priority. The Trevor Project is always here for you and has your back.
+## 커밍아웃 시 안전 고려사항
+가끔은 커밍아웃이 우리가 계획한 대로 흘러가지 않을 수도 있습니다. 우리가 바랬던 방향으로 사람들이 반응하지 않더라도 여러분 정체성의 진실성에 영향을 끼치지 않으며 여러분의 잘못도 아니라는 점을 명심해주세요. 여러분은 열린 마음과 배려, 사랑으로 받아들여질 자격이 있습니다. 만약 상황이 안전해지지 않을것 같은 느낌이 든다면 주거, 음식, 학교, 교통 수단 등의 제 2의 계획을 준비해두는 것이 좋을 수도 있습니다. 여러분의 안전과 안녕이 최우선입니다. Trevor Project는 언제나 여러분을 도와주기 위해 준비돼 있습니다.
 
-Check out the **Resources** section below for local and/or online resources that can be a support before, during, and after coming out.
-
-
-## Healthy Relationships
-As you explore your identity and coming out, a very important part of that process can be [the consideration of dating and/or starting a relationship](https://www.thetrevorproject.org/resources/article/crushes-early-relationships/) with special someone(s). With that can come a great deal of excitement and even a bit of anxiety as you get to know someone new.
-
-While navigating this process, it is important to know the difference between a [healthy relationship and one that might be unhealthy](https://www.thetrevorproject.org/resources/article/resources-for-healthy-relationships/). Only you can define your expectations, boundaries, and needs. Remember, you reserve the right to express when something doesn’t feel right, and we all deserve to feel safe and secure with people we are dating.
-
-- **Healthy relationships** can be characterized by trust, honesty, mutual respect, open communication and most importantly feeling safe and secure.
-- **Unhealthy relationships** may be characterized by elements of control, sometimes manifesting physically, emotionally, and/or sexually. Violence, coercion, or force of any kind is not healthy and does not create a safe, respectful space for all partners.
-- **Consent** to engage in sexual, physical, and/or romantic intimacy is extremely important  
-    and must be enthusiastically and freely given by each person. You always have the right  
-    to say no or stop an intimate experience, no matter the reason, no matter if you’ve been intimate with that person before, and no matter if you consented to another behavior earlier. This goes for the person/people you are being intimate with as well. Everyone must consent.
+아래의 **자료** 섹션에서 커밍아웃 전후에 도움이 될수 있는 지역 및/또는 온라인 자료들을 확인해보세요.
 
 
-## Practicing Self Care
-Coming out and learning more about yourself can sometimes feel like a roller coaster — full of emotional ups and downs.  
-To stay healthy, it’s important to discover what helps you feel cared for, relaxed, and able to cope with everything that’s going on. This is called “[self-care](https://www.thetrevorproject.org/resources/guide/self-care-guide/),” and it’s about taking care of YOU. Coming up with some go-to self-care ideas can be a helpful way to make your mental and physical health a priority.
+## 건강한 관계
+여러분이 스스로의 정체성을 탐구하고 커밍아웃을 하는 과정에서, 특별한 사람과의 [데이트나 관계를 고려하는 것]((https://www.thetrevorproject.org/resources/article/crushes-early-relationships/))이 이 과정의 매우 중요한 부분이 될수 있습니다. 새로운 사람들을 알게 되면서 많이 신나기도 하고 약간은 불안감이 들수도 있습니다.
 
-- **When I’m having a hard time, what do I do to cope?**
-- **What helps me stay healthy, relaxed and positive?**
-- **Who could I call, text, or chat with if I need support?**
-- **What are my favorite things to do?**
-- **What are my goals for the future?**
-- **What are some self-care activities I want to try out?**
+이 과정에서, [건강한 관계와 건강하지 않은 관계](https://www.thetrevorproject.org/resources/article/resources-for-healthy-relationships/)의 차이를 알아 두는 것이 중요합니다. 오직 여러분만이 여러분의 예상, 경계, 그리고 필요를 결정할 수 있습니다. 여러분이 무언가가 잘못되었다고 느낄 때 표현할 권리가 있으며, 데이트하는 사람과 안전하게 느끼고 안심할 수 있어야 한다는 점을 기억해주세요.
 
-**Here are some ideas for a self-care plan:**
+- **건강한 관계**는 신뢰, 정직, 상호 존중, 열린 소통, 그리고 무엇보다 안전하고 안심할 수 있는 느낌으로 특정지어질수 있습니다.
+- **건강하지 않은 관계**는 통제하는 요소들로 이루어질 수도 있는데, 이런 요소들은 종종 신체적, 감정적, 그리고/또는 성적일 수 있습니다. 폭력, 강압, 또는 어떤 종류의 강제성은 건강하지 않으며, 모든 파트너에게 안전하고 존중받는 건강을 만들 수 없습니다.
+- 성적, 신체적, 및/혹은 로맨틱한 친말감에 **동의**하는 것은 매우 중요하며 반드시 각 개인에 의해 적극적으로 자유롭게 이루어져야 합니다. 여러분은 어떤 이유가 됐든, 그 사람과 이전에 친밀했든 아니든, 다른 행동에 동의한 적이 있든지 없든지의 여부와 관계없이, 친밀한 경험을 중단하거나 거부할 권리가 있습니다. 이는 여러분과 친밀해지는 상대방에게도 해당합니다. 모든 사람이 동의하는 것이 중요합니다.
 
-- Focus on your interest: Do something you enjoy. Write your thoughts out in a journal or create an art project to express your feelings.
-- Connect with your body: Take deep breaths. Take a shower or bath. Some people find movement like yoga, walking, or running helpful. You know your body best and what feels good for you.
-- Call, text, or chat with a friend for support.
-- Talk to a supportive person in your life if you’re feeling sad or unsafe.
-- Identify safe places you can go to if you need to get away from a stressful situation.
-- Connect with a trained counselor via [**TrevorLifeline**, **TrevorText**, or **TrevorChat**](https://www.thetrevorproject.org/get-help/)**.**
-- Log on to **[TrevorSpace](https://www.trevorspace.org/)** to connect with other LGBTQ+ young people.
-- Put on headphones and listen to your favorite music.
-- Watch your favorite TV show and relax.
-- Remind yourself that you are a valuable person exactly as you are.
+
+## 자기 돌봄 연습하기
+커밍아웃과 자신에 대해 더 알아가는 것은 때때로 감정의 기복이 심한 롤러코스터처럼 느껴질 수 있습니다. 건강을 유지하려면 자신이 배려받고 있고, 진정되고, 현재 일어나고 있는 모든 일에 대처할 수 있다고 느낄수 있는 방법을 찾는 것이 중요합니다. 이를 "[자기 돌봄](https://www.thetrevorproject.org/resources/guide/self-care-guide/)"이라고 하며 자신을 돌보는 것에 관한 내용입니다. 자신만의 자기 돌봄 아이디어를 만들어내는 것은 정신적, 신체적 건강을 우선시하는 데 도움이 될수 있습니다.
+
+- **어려운 일을 겪을 때, 나는 어떻게 대처를 할까?**
+- **무엇이 나를 건강하고, 진정되고, 긍정적이게 해줄까?**
+- **지지가 필요할 때 누구에게 전화를 걸거나, 문자하거나, 이야기할 수 있을까?**
+- **내가 좋아하는 일들이 무엇일까?**
+- **미래에 대한 나의 목표는 무엇일까?**
+- **내가 시도해보고 싶은 자기 돌봄 활동은 무엇일까?**
+
+**자기 돌봄을 할때 시도해볼만한 아이디어들을 한번 살펴보세요:**
+
+- 관심사에 집중하기: 즐겁게 할수 있는 일을 해보세요. 일기장에 생각을 쓰거나, 감정을 표현할수 있는 예술 프로젝트를 만들어보세요.
+- 몸과 하나되기: 깊게 숨을 들이마셔보세요. 샤워나 목욕을 해보세요. 어떤 사람들은 요가, 걷기, 달리기와 같은 움직이는 활동이 도움이 된다고 느끼기도 합니다. 여러분이 스스로의 몸을 가장 잘 알고 있으며 무엇이 좋은지 알고 있다는 것을 명심해주세요.
+- 친구에게 전화하거나 문자를 보내거나 이야기하여 지지를 받아보세요.
+- 슬프거나 안전하지 않다고 느낄 때 삶에서 지지해줄수 있는 사람과 이야기해보세요.
+- 스트레스가 많은 상황에서 벗어나야 할 경우에 찾아갈 수 있는 안전한 장소를 찾아보세요.
+- 교육된 상담사와 [**TrevorLifeline**, **TrevorText**, 혹은 **TrevorChat**](https://www.thetrevorproject.org/get-help/)을 통해 연결해보세요. (영어)
+- **[TrevorSpace](https://www.trevorspace.org/)** 에 로그인하여 젊은 LGBTQ+인 사람들과 연결해보세요. (영어)
+- 헤드폰을 끼고 좋아하는 음악을 들어보세요.
+- 좋아하는 드라마를 보고 휴식을 취해보세요.
+- 여러분은 있는 그대로 소중한 사람임을 잊지 말아주세요.
 
 
 ## Community Care

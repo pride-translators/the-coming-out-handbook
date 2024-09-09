@@ -3,7 +3,6 @@
 
 > 원문을 읽고 싶으신가요? [여기](https://www.thetrevorproject.org/resources/guide/the-coming-out-handbook/)를 확인해보세요.
 
-\
 **환영합니다!**
 
 **성적 지향** 및/혹은 **젠더 정체성**에 대해 생각해 보게 되면 여러 감정이 들기도 하고 여러 가지 질문들이 생길 수도 있습니다.

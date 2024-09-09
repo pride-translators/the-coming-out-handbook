@@ -38,15 +38,16 @@
 ## 젠더가 뭔가요?
 어떤 사람들은 젠더가 다음과 같이 생겼다고 말합니다:
 
-![어떤 사람들은 젠더가 다음과 같이 생겼다고 말합니다](./attachments/1.png)
+![어떤 사람들은 젠더가 다음과 같이 생겼다고 말합니다](https://github.com/pride-translators/the-coming-out-handbook/raw/main/attachments/1.png)
 
 또 어떤 사람들은 젠더가 이렇게 생겼다고 말합니다:
 
-![또 어떤 사람들은 젠더가 이렇게 생겼다고 말합니다](./attachments/2.png)
+![또 어떤 사람들은 젠더가 이렇게 생겼다고 말합니다](https://github.com/pride-translators/the-coming-out-handbook/raw/main/attachments/2.png)
 
 사실 젠더는 이렇게 생겼습니다...:
 
-![사실 젠더는 이렇게 생겼습니다...:](./attachments/3.png)
+![사실 젠더는 이렇게 생겼습니다...:](https://github.com/pride-translators/the-coming-out-handbook/raw/main/attachments/3.png)
+
 
 ### 젠더 정체성 이해하기
 [젠더](https://www.thetrevorproject.org/resources/article/understanding-gender-identities/)는 내면에서 남자, 여자, 논바이너리, 혹은 다른 무언가로 느껴지는 현상을 설명합니다. 모든 사람이 젠더를 다르게 경험하기도 하고, 단순히 보는 것만으로는 누군가의 젠더를 알수 없기도 합니다.
@@ -68,7 +69,7 @@
 
 시각화하는 게 도움이 될 수도 있습니다. 다음 영역에서는 **젠더 정체성 지도**를 살펴보겠습니다. 이 지도에서 점 하나, 여러 점들, 원 하나, 혹은 원하는 아무 모양을 통해 본인이 어떻게 느끼는지 표시해 보세요. 오늘 표시한 방식과 내일, 한 달 뒤, 혹은 1년 뒤에 표시한 방식이 달라도 괜찮습니다. 여러분이 선택할 권리가 있습니다.
 
-![젠더 정체성 지도](./attachments/4.png)
+![젠더 정체성 지도](https://github.com/pride-translators/the-coming-out-handbook/raw/main/attachments/4.png)
 
 
 ### 젠더 표현
@@ -242,7 +243,7 @@
 
 
 ## 건강한 관계
-여러분이 스스로의 정체성을 탐구하고 커밍아웃을 하는 과정에서, 특별한 사람과의 [데이트나 관계를 고려하는 것]((https://www.thetrevorproject.org/resources/article/crushes-early-relationships/))이 이러한 과정에서 매우 중요한 부분이 될 수도 있습니다. 새로운 사람들을 알아가게 되면서 많이 신나기도 하고 약간은 불안하게 느껴질 수도 있습니다.
+여러분이 스스로의 정체성을 탐구하고 커밍아웃을 하는 과정에서, 특별한 사람과의 [데이트나 관계를 고려하는 것](https://www.thetrevorproject.org/resources/article/crushes-early-relationships/)이 이러한 과정에서 매우 중요한 부분이 될 수도 있습니다. 새로운 사람들을 알아가게 되면서 많이 신나기도 하고 약간은 불안하게 느껴질 수도 있습니다.
 
 이 과정에서, [건강한 관계와 건강하지 않은 관계](https://www.thetrevorproject.org/resources/article/resources-for-healthy-relationships/)의 차이를 알아 두는 것이 중요합니다. 오직 여러분만이 여러분의 예상, 경계, 그리고 필요를 결정할 수 있습니다. 여러분이 무언가가 잘못되었다고 느낄 때 표현할 권리가 있으며, 데이트하는 사람과 안전하게 느끼고 안심할 수 있어야 한다는 점을 기억해 주세요.
 
